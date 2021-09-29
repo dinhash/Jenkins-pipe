@@ -1,2 +1,2 @@
 # Jenkins-pipe
-Repo to try Jenkins exec
+Repo to try Jenkins execution
